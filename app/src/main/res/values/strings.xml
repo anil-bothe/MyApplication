@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="notes_title">Add New Note</string>
+    <string name="all_notes">All Notes</string>
+</resources>
